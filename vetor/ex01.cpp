@@ -1,3 +1,17 @@
+/*
+1. Escreva um programa no qual o usuário digite 10 números inteiros
+que serão armazenados em um vetor. Sobre esse vetor:
+a. Imprima em ordem direta (do elemento na posição 0 até o
+elemento na posição 9)
+b. Imprima em ordem inversa (do elemento na posição 9 até o
+elemento na posição 0)
+c. Procure o maior elemento do vetor
+d. Procure o menor elemento do vetor
+e. Calcule quantas vezes e em que posições do vetor aparece
+um determinado número digitado pelo usuário
+f. Calcule a média entre os 10 valores
+*/
+
 #include <iostream>
 using namespace std;
 
